@@ -750,3 +750,6 @@ winrm create winrm/config/Listener?Address=*+Transport=HTTPS '@{Hostname="app-03
 netsh advfirewall firewall add rule name="Windows Remote Management (HTTPS-In)" dir=in action=allow protocol=TCP localport=5977
 winrm e winrm/config/Listener
 winrm delete winrm/config/Listener?Address=*+Transport=HTTPS
+
+
+Test
