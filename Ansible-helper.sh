@@ -8,8 +8,6 @@ yum install ansible -y
 activate-global-python-argcomplete 
 ansible --version
 
-222222222222222222222222222222222222
-
 ghazi 
 
 
