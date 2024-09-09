@@ -8,7 +8,15 @@ yum install ansible -y
 activate-global-python-argcomplete 
 ansible --version
 
+
+
+
 real time 
+
+
+
+
+
 ansible all --list
 # preapre the connection with target node 
 ssh-keygen 
