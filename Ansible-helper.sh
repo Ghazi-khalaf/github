@@ -9,6 +9,8 @@ activate-global-python-argcomplete
 ansible --version
 
 
+git pull
+
 ansible all --list
 # preapre the connection with target node 
 ssh-keygen 
