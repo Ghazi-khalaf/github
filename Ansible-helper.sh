@@ -9,7 +9,7 @@ activate-global-python-argcomplete
 ansible --version
 
 
-git pull
+git pull last test for git pull
 
 ansible all --list
 # preapre the connection with target node 
